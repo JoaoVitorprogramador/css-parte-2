@@ -4,12 +4,14 @@
     box-sizing: border-box;
 }
 
+nav{
+    display: inline-block;
+    padding-top: 32px;
+    padding-left: 32px;
+}
 
-
-
-
-
-
+#botao-sign-up{ background-color: #4cb538 ; 
+color:#ffffff; }
 
 
 
